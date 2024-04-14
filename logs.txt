@@ -1,0 +1,54 @@
+commit 65cb8dd160db75700ded59e1df5c81a672dbf5d9 (HEAD -> master)
+Merge: c95fcc6 7109198
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 14:33:27 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/ivaaleksova/SI_2024_lab1_203153
+
+commit c95fcc6c28d7eb23145d562ee31cb350f2c9f52c (bug2)
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 14:27:19 2024 +0200
+
+    Conflict Resolved
+
+commit 2b740e0a4e954d9f613cfcb37fc0c87dfa9c3210
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 13:36:38 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7109198830b31871f0ba28a019bcf25edd0410ae (origin/bug2)
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 14:03:23 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 2acdcc7416699aa44ea77a02050207afeb974cd5 (origin/master, origin/bug1, bug1)
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 13:59:02 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit d58de35c4d4daeb982def06737a9fd114f947562
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 13:36:38 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 7ff8d253db417845fff39758aaac1f3fd43296c5
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 13:28:42 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3dd94d962db43497afd369c36b7c6a78d1feeafa
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sun Apr 14 13:11:13 2024 +0200
+
+    Add starter code
+
+commit 9013ac1e231250955e4efe19ca3a9b6b8c29036f
+Author: ivaaleksova <iva.aleksova@gmail.com>
+Date:   Sat Apr 13 19:33:51 2024 +0200
+
+    Initial commit
